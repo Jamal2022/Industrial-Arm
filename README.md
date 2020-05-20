@@ -14,3 +14,7 @@ An industrial robot is a robot system used for manufacturing. Industrial robots 
 1x PCB Board https://megabonus.com/y/YTncj
 
 4x batterie arduino
+
+# First code
+code1 : Manual control by application (Arm.apk)
+
