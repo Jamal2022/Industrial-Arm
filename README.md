@@ -16,5 +16,5 @@ An industrial robot is a robot system used for manufacturing. Industrial robots 
 4x batterie arduino
 
 # First code
-code1 : Manual control by application (Arm.apk)
+code1 (Arm_Indus.ino) : Manual control by application (Arm.apk)
 
