@@ -19,3 +19,5 @@ An industrial robot is a robot system used for manufacturing. Industrial robots 
 code1 (Arm_Indus.ino) : Manual control by application (Arm.apk)
 
 # Second step
+create function save for save position of servomotor
+then execute function Run for automatic the system .
