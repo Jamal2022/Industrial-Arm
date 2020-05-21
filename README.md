@@ -21,4 +21,4 @@ code1 (Arm_Indus.ino) : Manual control by application (Arm.apk)
 # Second step
 create function save for save position of servomotor
 then execute function Run for automatic the system .
-code2 (Arm_indus with save and run)
+code2 (Arm_indus with save and run.ino)
